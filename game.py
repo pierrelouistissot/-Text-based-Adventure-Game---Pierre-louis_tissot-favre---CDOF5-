@@ -11,7 +11,7 @@ def intro():
         misty_path()
     elif choice == "2":
         sunny_clearing()
-    elif choice == "3":
+    elif choice == "3": 
         dark_tunnel()
     else:
         print("Choix invalide. Veuillez réessayer.")
@@ -29,8 +29,6 @@ def misty_path():
         print("La créature est amicale et vous montre un chemin secret vers la sortie de la forêt. Vous êtes sauvé !")
     elif choice == "2":
         print("Vous courez, mais vous trébuchez et la créature vous attrape. Fin tragique.")
-    elif choice == "3":
-        print("Vous blessez la créature, mais elle devient furieuse et vous attaque. Fin tragique.")
     else:
         print("Choix invalide. Veuillez réessayer.")
         misty_path()
