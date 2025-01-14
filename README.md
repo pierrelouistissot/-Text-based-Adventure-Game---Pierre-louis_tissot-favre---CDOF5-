@@ -12,7 +12,7 @@ An interactive text-based adventure game where the player's choices shape the ou
    cd -Text-based-Adventure-Game---Pierre-louis_tissot-favre---CDOF5-
    ```
    
-4. Run the game using the Python interpreter:
+4. Run the game using the Python interpreter: "change to game.py"
    ```bash
    python game.py
    ```
